@@ -1,0 +1,4 @@
+# goodAdviceApp
+作り始めた時にtranslateAppと名付けてしまいましたが、
+GithubではgoodAdviceAppにしておきます。
+自由に使ってください。
